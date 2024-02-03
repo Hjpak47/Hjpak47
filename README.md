@@ -1,0 +1,1 @@
+print("hjp ak47")
